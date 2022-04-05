@@ -1,0 +1,33 @@
+--++==SCOREBOARD==++--
+
+1.  2021-12-18 | Name: ilaik | Score:  100
+2.  2021-12-18 | Name: Aadhvik | Score:  22
+3.  2021-12-18 | Name: Aahan | Score:  22
+4.  2021-12-18 | Name: Aayan | Score:  22
+5.  2021-12-18 | Name: Aadyn | Score:  21
+6.  2021-12-18 | Name: Aaiden | Score:  21
+7.  2021-12-18 | Name: Abdallah | Score:  20
+8.  2021-12-18 | Name: Aamir | Score:  19
+9.  2021-12-18 | Name: Aayden | Score:  19
+10.  2021-12-18 | Name: Aadi | Score:  18
+11.  2021-12-18 | Name: Aaditya | Score:  16
+12.  2021-12-18 | Name: Abdias | Score:  16
+13.  2021-12-18 | Name: Aaric | Score:  15
+14.  2021-12-18 | Name: Aarnav | Score:  13
+15.  2021-12-18 | Name: Abdiel | Score:  13
+16.  2021-12-18 | Name: Aaden | Score:  12
+17.  2021-12-18 | Name: Aakash | Score:  12
+18.  2021-12-18 | Name: Aarush | Score:  12
+19.  2021-12-18 | Name: Aadit | Score:  11
+20.  2021-12-18 | Name: Aaren | Score:  11
+21.  2021-12-18 | Name: Aariz | Score:  11
+22.  2021-12-18 | Name: Aadvik | Score:  9
+23.  2021-12-18 | Name: Aariv | Score:  9
+24.  2021-12-18 | Name: Aaron | Score:  9
+25.  2021-12-18 | Name: Aarav | Score:  8
+26.  2021-12-18 | Name: Abbas | Score:  6
+27.  2021-12-18 | Name: Abbott | Score:  6
+28.  2021-12-18 | Name: Aahil | Score:  5
+29.  2021-12-18 | Name: Aayush | Score:  5
+30.  2021-12-18 | Name: Aadhav | Score:  4
+31.  2021-12-18 | Name: Aaryan | Score:  4
